@@ -1,0 +1,6 @@
+{
+  "name": "cryptopulse-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CryptoPulse AI CORS proxy for exchange APIs"
+}
